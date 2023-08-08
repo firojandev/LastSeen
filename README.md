@@ -1,4 +1,4 @@
-# my_timer_app
+# Last seen
 
 A new Flutter project.
 
